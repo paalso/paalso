@@ -47,7 +47,7 @@ I have experience in backend development (Python, Ruby on Rails), and data analy
 
 - [Certificate Generator](https://github.com/paalso/generate_uaitp_sertificate) — automated generation of certificates for an organization (Python).  
 
-- [Online School](https://ru.hexlet.io/programs/data-analytics/projects/96) — data analytics project: user journey from ads to purchase, marketing campaign efficiency, attribution model (SQL, Apache Superset).  
+- [Online School](https://github.com/paalso/python-for-data-analysts-project-100) — data analytics project: user journey from ads to purchase, marketing campaign efficiency, attribution model (SQL, Apache Superset).  
 
 - [Conversion Dashboard](https://github.com/paalso/python-for-data-analysts-project-100) — analytics project: data ETL, charts with Matplotlib & Seaborn, automated reporting scripts (Python, Pandas, Jupyter).
 
