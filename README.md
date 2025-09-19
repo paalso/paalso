@@ -39,7 +39,7 @@ I have experience in backend development (Python, Ruby on Rails), and data analy
 
 - [Page Loader](https://github.com/paalso/python-pytest-testing-project-79) — CLI tool for downloading HTML pages and local resources (Python, Requests, BeautifulSoup, Pytest, logging).  
 
-- [Shop Hopper](https://github.com/username/shop-hopper) — CLI tool for parsing book platforms with results visualization in HTML (Python, Requests, BeautifulSoup).  
+- [Shop Hopper](https://github.com/paalso/shop_hopper) — CLI tool for parsing book platforms with results visualization in HTML (Python, Requests, BeautifulSoup).  
 
 - [Task Manager](https://github.com/paalso/python-project-52) — lightweight web app to create and assign tasks (Django, Bootstrap, Pytest). [Demo on PythonAnywhere](https://paalso.pythonanywhere.com).  
 
