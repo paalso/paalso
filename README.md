@@ -45,7 +45,9 @@ I have experience in backend development (Python, Ruby on Rails), and data analy
 
 - [Page Analyzer](https://github.com/paalso/python-project-83) — web tool to analyze pages for key SEO parameters (Python, Flask).  
 
-- [Certificate Generator](https://github.com/paalso/generate_uaitp_sertificate) — automated generation of certificates for an organization (Python).  
+- [Certificate Generator](https://github.com/paalso/generate_uaitp_sertificate) — automated generation of certificates for an organization (Python).
+
+- [ACTED HNMU Data Officer Test Assignment](https://github.com/paalso/ACTED_test_task/)
 
 - [Online School](https://github.com/paalso/python-for-data-analysts-project-100) — data analytics project: user journey from ads to purchase, marketing campaign efficiency, attribution model (SQL, Apache Superset).  
 
