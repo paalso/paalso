@@ -41,7 +41,7 @@ I have experience in backend development (Python, Ruby on Rails), and data analy
 
 - [Shop Hopper](https://github.com/paalso/shop_hopper) — CLI tool for parsing book platforms with results visualization in HTML (Python, Requests, BeautifulSoup).  
 
-- [Task Manager](https://github.com/paalso/python-project-52) — lightweight web app to create and assign tasks (Django, Bootstrap, Pytest). [Demo on PythonAnywhere](https://paalso.pythonanywhere.com).  
+- [Task Manager](https://github.com/paalso/python-project-52) — lightweight web app to create and assign tasks (Django, Bootstrap, Pytest).
 
 - [Page Analyzer](https://github.com/paalso/python-project-83) — web tool to analyze pages for key SEO parameters (Python, Flask).  
 
